@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Ranga&display=swap');
+  h1
+    color:#fffffff
+
+    body{
+      background-color: blue;
+      color: yellow;
+      font-family: cursive;
+}
+      h3{
+        background-color: rgb(235,0,0);
+
+      }
+
+a{
+  color: pink;
+  text-decoration: none;
+  font-size: 36px;
+}
+
+
+a:hover{
+  background-color: purple;
+}
+
+
+a:visited
+color: green;
+
+li
+color: green;
+
+ul li{
+  list-style: disc
+}
+
+  h3 em{
+    font-weight: lighter;
+    color: orange;
+  }
+
+  #name{
+    color: gray;
+  }
+
+
+#narwhale{
+color: red;
+font-family: 'Ranga', cursive;
+}
+
+bolder{
+  font-weight: bold;
+}
+
+underline{
+  text-decoration: underline;
+}
