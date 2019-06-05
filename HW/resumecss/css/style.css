@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Ranga&display=swap');
+
+
+#name{
+  color: red;
+  font-size: 50px;
+  font-family: 'Ranga', cursive;
+}
+
+.bolder{
+  font-weight: bolder;
+}
+
+.lighter{
+  font-weight: lighter;
+}
+
+.normal{
+  font-weight: normal;
+}
+
+#cat{
+  color:red;
+    text-decoration: none;
+}
+
+#dog{
+  color:blue;
+    text-decoration: none;
+}
+
+a:hover{
+  background-color: purple;
+}
+
+#cool{
+color: pink;
+}
+
+#dope{
+  color: purple
+}
+
+#bet{
+  font-size: 20px
+  color:  blue
+}
+/* ^this was not used on anything yet*/

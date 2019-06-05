@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Ranga&display=swap');
-  h1
-    color:#fffffff
+  h1{
+    color: #fffffff;
+  }
 
     body{
       background-color: blue;
