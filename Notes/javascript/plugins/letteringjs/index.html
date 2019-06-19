@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style media="screen">
+      .char4{
+        color: red;
+      }
+
+      .line3{
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+
+
+<h1 class="fancy_title">Some Title</h1>
+<h1 class="words">Some Title</h1>
+<h1 class="lines">These <br> are <br> Some lines</h1>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script type="text/javascript" src="js/jquery.lettering-0.6.min.js">
+
+</script>
+
+<script type="text/javascript">
+
+  $(document).ready(function() {
+    $(".fancy_title").lettering();
+    $(".words").lettering('words');
+    $(".lines").lettering('lines');
+  });
+
+</script>
+
+
+
+  </body>
+</html>
