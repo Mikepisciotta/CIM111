@@ -1,8 +1,9 @@
 @import "desktop.css";
 
 
-header, footer{
+header{
   width: 450px;
+  height: auto;
 }
 
 main{
@@ -18,4 +19,58 @@ nav ul li{
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+#section1{
+  width: 450px;
+  height: auto;
+  display: block;
+  background-color: white;
+}
+
+
+#sharksimage{
+  width: 250px;
+  height: 250px;
+}
+
+
+#section2{
+  width: 450px;
+  height: auto;
+  display: block;
+  background-image: url("https://images.unsplash.com/photo-1506125840744-167167210587?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=774&q=80");
+  margin-bottom: 50px;
+}
+
+
+
+#section3{
+  width: 450px;
+  height: auto;
+  display: block;
+  margin-bottom: 50px;
+
+background-image: url("https://images.unsplash.com/photo-1531387083648-f66895a7ec10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1334&q=80");
+}
+
+
+#section4{
+  width: 450px;
+  height: auto;
+  display: block;
+
+}
+
+#section5{
+  width: 450px;
+  height: auto;
+  display: block;
+}
+
+#section6{
+  width: 450px;
+  height: auto;
+  display: block;
+  background-color: white;
 }
